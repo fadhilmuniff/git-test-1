@@ -8,5 +8,9 @@
 <body>
     <h1>php nih</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque sequi iure quam eius nisi sint officiis fuga inventore? Accusamus necessitatibus, accusantium adipisci consectetur exercitationem iste perspiciatis rerum qui magnam nobis.</p>
+    <ul>
+    <li>satu
+    </li>
+    </ul>
 </body>
 </html>
